@@ -1,5 +1,5 @@
 import React from "react";
-import Chance from "chance"
+import Chance from "chance";
 
 class Detail extends React.Component {
     constructor(props) {
